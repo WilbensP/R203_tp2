@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-abstract class Favalier extends Piece{
+class Favalier extends Piece{
     
     public Favalier(){
 	super('B', new Position());
